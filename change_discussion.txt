@@ -1,0 +1,14 @@
+asset movement
+status--
+in transit
+successfully delivered
+
+Mode of disposal:
+sell
+Destroyed/Scrap
+
+Reason of disposal:
+out dated
+no useability
+
+
